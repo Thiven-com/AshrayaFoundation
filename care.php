@@ -333,37 +333,37 @@ require 'includes/header.php';
 <!-- CHILDREN AND PERSONAL DEVELOPMENT -->
 <section class="section care-soft-section" id="education">
     <div class="container program reverse">
-
         <div class="program-img reveal">
             <img src="assets/images/care/elder-care.jpg"
-                 alt="People receiving care and participating in activities">
+                 alt="Senior citizens receiving care and support">
         </div>
 
         <div class="program-copy reveal delay-1">
 
-            <span class="eyebrow">CHILDREN'S CARE & DEVELOPMENT</span>
+            <span class="eyebrow">ELDERLY CARE & SUPPORT</span>
 
             <h2>
-                Every child deserves
-                <em>love, care and protection.</em>
+                Every senior deserves
+                <em>respect, comfort and companionship.</em>
             </h2>
 
             <p>
-                Children without parental care deserve a safe,
-                loving and supportive environment. We aim to
-                encourage their overall well-being through
-                proper care, education, guidance, recreation
-                and opportunities to develop confidence
-                and independence.
+                Senior citizens deserve a safe, peaceful and
+                supportive environment where they feel valued
+                and cared for. We aim to promote their well-being
+                through daily assistance, nutritious food,
+                healthcare support, emotional care and meaningful
+                companionship, helping them live with dignity
+                and a sense of belonging.
             </p>
 
             <div class="bullet-grid">
-                <span>✓ Children's safety and protection</span>
-                <span>✓ Education and guidance</span>
-                <span>✓ Life skills development</span>
-                <span>✓ Creative and recreational activities</span>
-                <span>✓ Emotional support and affection</span>
-                <span>✓ Confidence and independence</span>
+                <span>✓ Safe and comfortable living environment</span>
+                <span>✓ Daily care and personal assistance</span>
+                <span>✓ Nutritious food and basic essentials</span>
+                <span>✓ Healthcare and well-being support</span>
+                <span>✓ Emotional care and companionship</span>
+                <span>✓ Respect, dignity and belonging</span>
             </div>
 
         </div>
@@ -372,24 +372,26 @@ require 'includes/header.php';
 </section>
 
 
+
 <!-- EVERYDAY SUPPORT -->
 <section class="section care-services">
     <div class="container">
 
         <div class="heading centered reveal">
 
-            <span class="eyebrow">EVERYDAY SUPPORT</span>
+            <span class="eyebrow">OUR CARE & SUPPORT</span>
 
             <h2>
-                Small acts of care,
-                <em>meaningful differences.</em>
+                Caring for every life,
+                <em>with love and dignity.</em>
             </h2>
 
             <p>
-                From nutritious meals and safe shelter to
-                healthcare, companionship and emotional support,
-                we believe every act of kindness can make
-                a meaningful difference in someone's life.
+                At Ashraya Foundation, we believe everyone deserves
+                kindness, comfort and a sense of belonging.
+                Our mission is to support children, senior citizens
+                and vulnerable individuals through essential care,
+                protection and meaningful human connection.
             </p>
 
         </div>
@@ -400,12 +402,13 @@ require 'includes/header.php';
             <div class="service reveal" id="food">
                 <span>🍲</span>
 
-                <h3>Food & Nutrition</h3>
+                <h3>Food & Daily Nutrition</h3>
 
                 <p>
-                    Supporting access to nutritious food,
-                    regular meals, clean drinking water
-                    and essential daily needs.
+                    Helping provide wholesome meals, clean
+                    drinking water and nutritious food to
+                    support the health and daily well-being
+                    of people in need.
                 </p>
             </div>
 
@@ -413,12 +416,13 @@ require 'includes/header.php';
             <div class="service reveal delay-1" id="health">
                 <span>♥</span>
 
-                <h3>Health & Well-being</h3>
+                <h3>Healthcare & Wellness</h3>
 
                 <p>
-                    Encouraging health awareness, personal
-                    hygiene, emotional well-being and
-                    access to appropriate healthcare.
+                    Promoting physical and emotional well-being
+                    through health awareness, hygiene,
+                    medical assistance and compassionate
+                    care for every generation.
                 </p>
             </div>
 
@@ -426,12 +430,13 @@ require 'includes/header.php';
             <div class="service reveal delay-2" id="development">
                 <span>📚</span>
 
-                <h3>Education & Life Skills</h3>
+                <h3>Children's Growth & Development</h3>
 
                 <p>
-                    Supporting children's education,
-                    practical knowledge, life skills
-                    and opportunities for a better future.
+                    Encouraging children to grow in a safe
+                    and nurturing environment through
+                    learning opportunities, personal guidance,
+                    life skills and emotional support.
                 </p>
             </div>
 
@@ -439,12 +444,13 @@ require 'includes/header.php';
             <div class="service reveal" id="activities">
                 <span>☀</span>
 
-                <h3>Activities & Companionship</h3>
+                <h3>Emotional Care & Companionship</h3>
 
                 <p>
-                    Promoting recreation, celebrations,
-                    social interaction and meaningful
-                    companionship for all generations.
+                    Creating opportunities for friendship,
+                    recreation, meaningful conversations
+                    and joyful experiences that help
+                    reduce loneliness and build belonging.
                 </p>
             </div>
 
@@ -452,12 +458,14 @@ require 'includes/header.php';
             <div class="service reveal delay-1" id="essentials">
                 <span>🏠</span>
 
-                <h3>Shelter & Essentials</h3>
+                <h3>Safe Shelter & Essential Needs</h3>
 
                 <p>
-                    Supporting access to safe living
-                    environments, clothing, personal
-                    hygiene products and basic necessities.
+                    Supporting safe and comfortable living
+                    environments with clothing, personal
+                    hygiene essentials, daily necessities
+                    and a caring atmosphere where
+                    everyone feels protected.
                 </p>
             </div>
 
@@ -465,13 +473,14 @@ require 'includes/header.php';
             <div class="service reveal delay-2" id="community">
                 <span>🤝</span>
 
-                <h3>Community Support</h3>
+                <h3>Community Care & Inclusion</h3>
 
                 <p>
-                    Bringing volunteers, supporters and
-                    communities together to help orphaned
-                    children, elderly people and individuals
-                    facing challenging circumstances.
+                    Bringing together compassionate volunteers
+                    and supporters to promote inclusion,
+                    dignity and care for orphaned children,
+                    elderly people, persons with disabilities
+                    and vulnerable families.
                 </p>
             </div>
 
@@ -488,20 +497,21 @@ require 'includes/header.php';
         <div class="support-copy">
 
             <span class="eyebrow light">
-                BE A PART OF THE CHANGE
+                TOGETHER, WE CAN MAKE A DIFFERENCE
             </span>
 
             <h2>
-                Your kindness can bring hope
-                to every generation.
+                A little kindness can make
+                a lifetime of difference.
             </h2>
 
             <p>
-                Your support can help provide food, shelter,
-                healthcare, protection, education and
-                compassionate care to orphaned children,
-                senior citizens and people who need
-                a helping hand.
+                Your generosity can help create a safer,
+                more caring environment by supporting food,
+                shelter, healthcare, protection and emotional
+                well-being for orphaned children, senior citizens,
+                persons with disabilities and vulnerable individuals.
+                Every contribution brings hope, comfort and dignity.
             </p>
 
         </div>
