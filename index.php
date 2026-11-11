@@ -633,476 +633,255 @@ require 'includes/header.php';
 }
 
 </style>
-<!-- =====================================
-     HERO SECTION
-===================================== -->
-
-
 
 <!-- =====================================
-     HERO SECTION
+     ASHRAYA FOUNDATION - HOME FOR ALL AGE GROUPS
 ===================================== -->
 
 <section class="hero">
-
     <div class="hero-pattern"></div>
-
     <div class="container hero-grid">
-
         <div class="hero-copy reveal">
-
-            <span class="eyebrow">
-                ASHRAYA FOUNDATION • A HOME FOR EVERY LIFE
-            </span>
-
-            <h1>
-                A home filled with
-                <em>love, care and hope.</em>
-            </h1>
-
+            <span class="eyebrow">ASHRAYA FOUNDATION • A HOME FOR EVERY GENERATION</span>
+            <h1>A home filled with <em>love, care and hope.</em></h1>
             <p>
-                Everyone deserves a safe place to live,
-                a caring hand to hold and a community
-                where they feel valued.
-
-                Ashraya Foundation is dedicated to bringing
-                shelter, compassion, dignity and essential
-                support to children, elderly people,
-                vulnerable adults and individuals in need.
+                Everyone deserves a safe place to live, caring people to support them
+                and the opportunity to live with dignity. Ashraya Foundation supports
+                orphaned children, vulnerable adults and senior citizens by providing
+                a caring environment, essential support and a sense of belonging
+                throughout every stage of life.
             </p>
-
             <div class="actions">
-
-                <a class="btn primary" href="donation.php">
-                    Make a Difference <span>↗</span>
-                </a>
-
-                <a class="btn secondary" href="about.php">
-                    Discover Our Mission
-                </a>
-
+                <a class="btn primary" href="donation.php">Support Our Foundation <span>↗</span></a>
+                <a class="btn secondary" href="about.php">Discover Our Mission</a>
             </div>
-
             <div class="hero-trust">
                 <i></i>
-                Every life deserves a place to belong.
+                Every life deserves to feel safe, valued and loved.
             </div>
-
         </div>
 
         <div class="hero-photo reveal delay-1">
-
             <div class="photo-frame">
-                <img
-                    src="assets/images/home/hero.jpg"
-                    alt="Ashraya Foundation providing care and shelter">
+                <img src="assets/images/home/hero.jpg" alt="Children at Ashraya Foundation" loading="eager">
             </div>
-
             <div class="mini-card mini-one">
                 <b>♥</b>
-                <span>
-                    A caring home<br>
-                    for every generation
-                </span>
+                <span>A safe place<br>to live and belong</span>
             </div>
-
             <div class="mini-card mini-two">
-                <strong>Hope</strong>
-                <span>
-                    Love, dignity and<br>
-                    a sense of belonging
-                </span>
+                <strong>Hope & Dignity</strong>
+                <span>Care, respect and<br>new opportunities</span>
             </div>
-
         </div>
-
     </div>
-
 </section>
 
-
-<!-- =====================================
-     FOUNDATION HIGHLIGHTS
-===================================== -->
-
+<!-- FOUNDATION HIGHLIGHTS -->
 <section class="stats-wrap">
-
     <div class="container stats">
-
-        <div class="stat reveal">
-            <b>SHELTER</b>
-            <span>A safe place to call home</span>
-        </div>
-
-        <div class="stat reveal">
-            <b>CARE</b>
-            <span>Love and everyday support</span>
-        </div>
-
-        <div class="stat reveal">
-            <b>DIGNITY</b>
-            <span>Respect for every life</span>
-        </div>
-
-        <div class="stat reveal">
-            <b>HOPE</b>
-            <span>Never facing life alone</span>
-        </div>
-
+        <div class="stat reveal"><b>SAFE SHELTER</b><span>A secure place to call home</span></div>
+        <div class="stat reveal"><b>EDUCATION</b><span>Learning at every stage of life</span></div>
+        <div class="stat reveal"><b>NUTRITION</b><span>Healthy meals and daily essentials</span></div>
+        <div class="stat reveal"><b>LOVE & CARE</b><span>Respect for every generation</span></div>
     </div>
-
 </section>
 
-
-<!-- =====================================
-     WHAT WE DO
-===================================== -->
-
+<!-- WHAT WE DO -->
 <section class="section">
-
     <div class="container">
-
         <div class="heading centered reveal">
-
-            <span class="eyebrow">
-                OUR CARE & SUPPORT
-            </span>
-
-            <h2>
-                A caring home for everyone,
-                <em>at every stage of life.</em>
-            </h2>
-
+            <span class="eyebrow">OUR CARE & SUPPORT</span>
+            <h2>Care and support for people <em>at every stage of life.</em></h2>
             <p>
-                Every person has a different story,
-                but everyone deserves love, protection
-                and belonging.
-
-                Our mission is to provide a compassionate
-                environment for orphaned and vulnerable
-                children, senior citizens, adults without
-                family support and individuals facing
-                difficult life circumstances.
+                People of every age deserve safety, companionship and the support they need.
+                Our foundation welcomes orphaned and vulnerable children, adults who need
+                care and senior citizens who may be without family support. We aim to
+                create a respectful environment where everyone can feel valued and belong.
             </p>
-
         </div>
 
         <div class="two-cards">
-
-            <!-- SHELTER & DAILY CARE -->
-
             <article class="care-card reveal" id="shelter">
-
                 <div class="care-img">
-                    <img
-                        src="assets/images/home/activity.jpg"
-                        alt="Safe shelter and compassionate daily care">
+                    <img src="assets/images/home/activity.jpg" alt="A safe and welcoming home for children" loading="lazy">
                 </div>
-
                 <div class="care-content">
-
-                    <span class="number">
-                        01 / SHELTER & PROTECTION
-                    </span>
-
-                    <h3>
-                        A Safe Home & Daily Essentials
-                    </h3>
-
+                    <span class="number">01 / SHELTER & DAILY CARE</span>
+                    <h3>A Safe Home & Everyday Essentials</h3>
                     <p>
-                        A safe and welcoming home can
-                        change someone's life.
-
-                        Our care mission focuses on shelter,
-                        nutritious meals, clothing, hygiene,
-                        protection and the everyday essentials
-                        that help people live with comfort,
-                        security and dignity.
+                        A safe and supportive home matters at every age. Our care focus includes
+                        a secure living environment, nutritious meals, clothing, hygiene
+                        and everyday essentials to help residents feel comfortable,
+                        protected and cared for.
                     </p>
-
-                    <a href="care.php#shelter">
-                        Explore Our Care Services →
-                    </a>
-
+                    <a href="care.php#shelter">Explore Our Care Services →</a>
                 </div>
-
             </article>
 
-
-            <!-- COMPASSIONATE CARE -->
-
-            <article class="care-card elder reveal delay-1"
-                     id="education">
-
+            <article class="care-card reveal delay-1" id="education">
                 <div class="care-img">
-                    <img
-                        src="assets/images/home/community.jpg"
-                        alt="Companionship and emotional support">
+                    <img src="assets/images/home/community.jpg" alt="Children learning and developing together" loading="lazy">
                 </div>
-
                 <div class="care-content">
-
-                    <span class="number">
-                        02 / LOVE & COMPANIONSHIP
-                    </span>
-
-                    <h3>
-                        Compassionate Care & Belonging
-                    </h3>
-
+                    <span class="number">02 / COMPANIONSHIP & PERSONAL DEVELOPMENT</span>
+                    <h3>Companionship, Confidence & Growth</h3>
                     <p>
-                        A home is more than a roof
-                        over someone's head.
-
-                        We believe in kindness, emotional
-                        support, companionship, personal
-                        attention and creating meaningful
-                        connections so that no one feels
-                        forgotten, isolated or alone.
+                        Every person deserves opportunities to learn, connect and develop.
+                        We value education and guidance for children, meaningful activities
+                        for adults, and companionship and attentive support for senior
+                        residents, according to their individual needs.
                     </p>
-
-                    <a href="care.php#community">
-                        Discover Our Support →
-                    </a>
-
+                    <a href="care.php#education">Discover Our Support →</a>
                 </div>
-
             </article>
-
         </div>
-
     </div>
-
 </section>
 
-
-<!-- =====================================
-     OUR PROMISE
-===================================== -->
-
+<!-- OUR PROMISE -->
 <section class="impact">
-
     <div class="container impact-grid">
-
         <div class="impact-gallery reveal">
-
             <div class="gallery-main">
-                <img
-                    src="assets/images/home/community.jpg"
-                    alt="A compassionate and supportive care home">
+                <img src="assets/images/home/community.jpg" alt="Children sharing moments and learning together" loading="lazy">
             </div>
-
             <div class="gallery-small">
-                <img
-                    src="assets/images/home/activity.jpg"
-                    alt="Daily care and companionship">
+                <img src="assets/images/home/activity.jpg" alt="Children taking part in daily activities" loading="lazy">
             </div>
-
             <div class="impact-label">
-
-                <strong>One Family</strong>
-
-                <span>
-                    Every person deserves love and belonging
-                </span>
-
+                <strong>Every Life Matters</strong>
+                <span>A life with care, respect and belonging</span>
             </div>
-
         </div>
-
 
         <div class="impact-copy reveal delay-1">
-
-            <span class="eyebrow">
-                OUR COMMITMENT
-            </span>
-
-            <h2>
-                No one should feel
-                <em>forgotten or alone.</em>
-            </h2>
-
+            <span class="eyebrow">OUR COMMITMENT</span>
+            <h2>Everyone deserves <em>a life of dignity and hope.</em></h2>
             <p>
-                Some children grow up without parental
-                care. Some elderly people face loneliness
-                and abandonment. Others struggle with
-                disability, poverty, homelessness or
-                the absence of family support.
-
-                We believe every individual deserves
-                a caring environment where their
-                basic needs are respected and their
-                lives are valued.
+                Children, adults and senior citizens all deserve to feel safe, respected
+                and supported. We believe that compassionate care, practical assistance
+                and meaningful human connection can make a positive difference
+                throughout a person's life.
             </p>
-
             <div class="checks">
-
-                <div>
-                    <i>✓</i>
-                    <span>
-                        Safe shelter and a secure living environment
-                    </span>
-                </div>
-
-                <div>
-                    <i>✓</i>
-                    <span>
-                        Nutritious food, clothing and daily necessities
-                    </span>
-                </div>
-
-                <div>
-                    <i>✓</i>
-                    <span>
-                        Health, hygiene and well-being support
-                    </span>
-                </div>
-
-                <div>
-                    <i>✓</i>
-                    <span>
-                        Emotional care, companionship and kindness
-                    </span>
-                </div>
-
-                <div>
-                    <i>✓</i>
-                    <span>
-                        Inclusive care for people with different needs
-                    </span>
-                </div>
-
-                <div>
-                    <i>✓</i>
-                    <span>
-                        Dignity, respect and a sense of family
-                    </span>
-                </div>
-
+                <div><i>✓</i><span>A safe and supportive living environment for all ages</span></div>
+                <div><i>✓</i><span>Nutritious meals, clothing and daily necessities</span></div>
+                <div><i>✓</i><span>Education and learning opportunities for children</span></div>
+                <div><i>✓</i><span>Healthcare, hygiene and well-being support</span></div>
+                <div><i>✓</i><span>Emotional care, companionship and encouragement</span></div>
+                <div><i>✓</i><span>Activities, recreation and personal development</span></div>
             </div>
-
-            <a class="text-link" href="care.php">
-                Discover Our Care Services →
-            </a>
-
+            <a class="text-link" href="care.php">Discover How We Care →</a>
         </div>
-
     </div>
-
 </section>
 
-
-<!-- =====================================
-     DONATION / SUPPORT SECTION
-===================================== -->
-
-<section class="support-strip">
-
-    <div class="container support-grid">
-
-        <div class="support-copy reveal">
-
-            <span class="eyebrow light">
-                BE SOMEONE'S REASON TO SMILE
-            </span>
-
-            <h2>
-                Your kindness can turn
-                a shelter into a loving home.
-            </h2>
-
-            <p>
-                A meal for someone hungry.
-                A safe bed for someone without a home.
-                A helping hand for an elderly person.
-                Care and protection for a vulnerable child.
-
-                Your contribution can help bring comfort,
-                safety and hope to people who need it most.
-            </p>
-
-        </div>
-
-        <a class="btn white reveal delay-1"
-           href="donation.php">
-
-            Support Ashraya <span>↗</span>
-
-        </a>
-
-    </div>
-
-</section>
-
-
-<!-- =====================================
-     GALLERY PREVIEW
-===================================== -->
-
-<section class="section gallery-preview">
-
+<!-- CARE FOR EVERY AGE GROUP -->
+<section class="section">
     <div class="container">
-
-        <div class="heading reveal">
-
-            <span class="eyebrow">
-                LIFE AT ASHRAYA
-            </span>
-
-            <h2>
-                More than a shelter,
-                <em>a place to belong.</em>
-            </h2>
-
+        <div class="heading centered reveal">
+            <span class="eyebrow">CARE THROUGH EVERY STAGE OF LIFE</span>
+            <h2>A caring community, <em>at every stage of life.</em></h2>
             <p>
-                Every shared meal, caring gesture,
-                celebration and moment of togetherness
-                reflects the importance of human connection.
-
-                Explore the moments that represent
-                compassion, companionship and the
-                spirit of a caring community.
+                The needs of a child, an adult and a senior citizen may be different.
+                We believe everyone deserves appropriate care, healthy meals, meaningful
+                activities and human connection to support their well-being.
             </p>
+        </div>
+        <div class="two-cards">
+            <article class="care-card reveal">
+                <div class="care-img">
+                    <img src="assets/images/gallery/gallery-02.jpg" alt="Learning and educational activities" loading="lazy">
+                </div>
+                <div class="care-content">
+                    <span class="number">03 / HEALTH & WELL-BEING</span>
+                    <h3>Healthy Bodies & Happy Minds</h3>
+                    <p>
+                        Good health is important at every age. We recognise the value of nutritious
+                        food, personal hygiene, access to healthcare support and an
+                        environment that respects each resident's physical and emotional
+                        well-being.
+                    </p>
+                </div>
+            </article>
+            <article class="care-card reveal delay-1">
+                <div class="care-img">
+                    <img src="assets/images/gallery/gallery-03.jpg" alt="Children enjoying activities and friendship" loading="lazy">
+                </div>
+                <div class="care-content">
+                    <span class="number">04 / COMMUNITY & COMPANIONSHIP</span>
+                    <h3>Friendship, Companionship & Belonging</h3>
+                    <p>
+                        Shared activities, conversation and companionship can help people feel
+                        connected and valued. We encourage meaningful interaction,
+                        recreation and opportunities for residents of different ages
+                        to participate according to their interests and abilities.
+                    </p>
+                </div>
+            </article>
+        </div>
+    </div>
+</section>
 
+<!-- DONATION / SUPPORT SECTION -->
+<section class="support-strip">
+    <div class="container support-grid">
+        <div class="support-copy reveal">
+            <span class="eyebrow light">BE A PART OF SOMEONE'S JOURNEY</span>
+            <h2>Your kindness can make life brighter for someone.</h2>
+            <p>
+                Your support can help provide shelter, food, clothing, education for children,
+                healthcare assistance and companionship for people who need care.
+                Together, we can create more moments of comfort, dignity and hope.
+            </p>
+        </div>
+        <a class="btn white reveal delay-1" href="donation.php">Donate & Make a Difference <span>↗</span></a>
+    </div>
+</section>
+
+<!-- GALLERY PREVIEW -->
+<section class="section gallery-preview">
+    <div class="container">
+        <div class="heading reveal">
+            <span class="eyebrow">LIFE AT ASHRAYA</span>
+            <h2>Moments that make <em>life meaningful.</em></h2>
+            <p>
+                From learning and play to shared meals, celebrations and everyday moments,
+                every experience reflects the spirit of community at Ashraya Foundation.
+                Explore moments of care, friendship, respect and togetherness.
+            </p>
         </div>
 
         <div class="photo-grid">
-
-            <img
-                class="reveal"
-                src="assets/images/gallery/gallery-05.jpg"
-                alt="Care and compassion at Ashraya Foundation">
-
-            <img
-                class="reveal delay-1"
-                src="assets/images/gallery/gallery-02.jpg"
-                alt="Daily life and care activities">
-
-            <img
-                class="reveal delay-2"
-                src="assets/images/gallery/gallery-03.jpg"
-                alt="Companionship and community support">
-
-            <img
-                class="reveal"
-                src="assets/images/gallery/gallery-04.jpg"
-                alt="Togetherness and shared moments">
-
+            <img class="reveal" src="assets/images/gallery/gallery-05.jpg" alt="Children at Ashraya Foundation" loading="lazy">
+            <img class="reveal delay-1" src="assets/images/gallery/gallery-02.jpg" alt="Children learning and participating in activities" loading="lazy">
+            <img class="reveal delay-2" src="assets/images/gallery/gallery-03.jpg" alt="Children enjoying time together" loading="lazy">
+            <img class="reveal" src="assets/images/gallery/gallery-04.jpg" alt="Special moments and celebrations" loading="lazy">
         </div>
 
         <div class="center">
-
-            <a class="btn secondary" href="gallery.php">
-                Explore Our Gallery →
-            </a>
-
+            <a class="btn secondary" href="gallery.php">Explore Our Gallery →</a>
         </div>
-
     </div>
-
 </section>
 
-
-
+<!-- FINAL CALL TO ACTION -->
+<section class="section" style="padding-top: 0;">
+    <div class="container">
+        <div class="heading centered reveal">
+            <span class="eyebrow">STAND WITH ASHRAYA</span>
+            <h2>Be part of <em>a brighter tomorrow.</em></h2>
+            <p>
+                Every act of kindness matters. Learn more about our mission, share our work
+                or support children, adults and senior citizens through a contribution.
+            </p>
+            <div class="actions" style="justify-content:center;">
+                <a class="btn primary" href="donation.php">Support Ashraya <span>↗</span></a>
+                <a class="btn secondary" href="about.php">Know More About Us</a>
+            </div>
+        </div>
+    </div>
+</section>
 
 <?php require 'includes/footer.php'; ?>

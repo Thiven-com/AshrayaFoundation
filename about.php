@@ -372,11 +372,11 @@ require 'includes/header.php';
 
         <p>
             Ashraya Foundation is built on the belief that
-            every individual deserves a safe home, nutritious
-            food, compassionate care and a life of dignity.
-            We strive to support orphaned children, elderly
-            people, vulnerable adults and individuals who
-            need care, protection and a place to belong.
+            people of every age deserve a safe home, nutritious food,
+            compassionate care and a life of dignity. Ashraya Foundation
+            supports orphaned and vulnerable children, adults who need
+            care and senior citizens by creating a welcoming environment
+            where every resident can feel protected, respected and valued.
         </p>
 
     </div>
@@ -399,27 +399,25 @@ require 'includes/header.php';
             </span>
 
             <h2>
-                A place where everyone
-                <em>deserves to feel at home.</em>
+                A place where people of every age
+                <em>can feel safe and valued.</em>
             </h2>
 
             <p>
-                Every person deserves love, security and
-                someone who cares. Yet many children grow
-                up without parental support, elderly people
-                face loneliness and abandonment, and
-                vulnerable individuals struggle without
-                a safe place or family support.
+                People can need care and support at different stages of life.
+                Children may grow up without parental care, adults may
+                face difficult circumstances, and senior citizens may
+                experience loneliness or a lack of family support.
+                Everyone deserves safety, companionship and respect.
             </p>
 
             <p>
-                Ashraya Foundation stands for compassion,
-                humanity and togetherness. Our purpose is
-                to create a caring environment where
-                children, senior citizens, adults and
-                individuals facing difficult circumstances
-                can receive support, feel respected and
-                experience a sense of belonging.
+                Ashraya Foundation stands for compassion, humanity and
+                togetherness. Our purpose is to provide a caring home
+                for orphaned and vulnerable children, adults in need
+                and senior citizens. We aim to offer appropriate daily
+                support, meaningful companionship and an environment
+                where every resident experiences dignity and belonging.
             </p>
 
             <div class="quote">
@@ -463,10 +461,9 @@ require 'includes/header.php';
             </h2>
 
             <p>
-                Our values reflect our commitment to
-                protecting, supporting and respecting
-                every individual, regardless of age,
-                background or circumstances.
+                Our values guide the way we care for children, adults and senior
+                citizens. We are committed to treating every resident
+                with kindness, fairness, dignity and respect.
             </p>
 
         </div>
@@ -480,9 +477,8 @@ require 'includes/header.php';
                 <h3>Love & Compassion</h3>
 
                 <p>
-                    Providing kindness, emotional support
-                    and genuine care to people who need
-                    understanding and companionship.
+                    Offering thoughtful care, patience and emotional support
+                    to residents of every age and background.
                 </p>
 
             </div>
@@ -495,9 +491,8 @@ require 'includes/header.php';
                 <h3>Safety & Protection</h3>
 
                 <p>
-                    Believing everyone deserves a safe,
-                    welcoming and secure environment
-                    where they can live with peace of mind.
+                    Maintaining a welcoming and secure living environment
+                    where residents can feel protected and at ease.
                 </p>
 
             </div>
@@ -510,9 +505,8 @@ require 'includes/header.php';
                 <h3>Dignity & Respect</h3>
 
                 <p>
-                    Treating every child, adult and
-                    senior citizen with equality,
-                    respect and understanding.
+                    Respecting the individual needs, choices and dignity
+                    of every child, adult and senior resident.
                 </p>
 
             </div>
@@ -525,9 +519,8 @@ require 'includes/header.php';
                 <h3>Family & Togetherness</h3>
 
                 <p>
-                    Creating meaningful connections,
-                    companionship and a sense of family
-                    so nobody feels forgotten or alone.
+                    Building friendships, shared experiences and a sense
+                    of community so residents feel included.
                 </p>
 
             </div>
@@ -560,11 +553,10 @@ require 'includes/header.php';
                 </span>
 
                 <h3>
-                    To provide a safe and caring
-                    environment, essential support
-                    and dignity to orphaned children,
-                    elderly people and vulnerable
-                    individuals in need.
+                    To provide a safe, caring and respectful home for
+                    orphaned and vulnerable children, adults in need
+                    and senior citizens, with essential daily support
+                    and care suited to their needs.
                 </h3>
 
             </div>
@@ -585,10 +577,9 @@ require 'includes/header.php';
                 </span>
 
                 <h3>
-                    To build a compassionate community
-                    where every person has a place
-                    to belong, feels protected and
-                    receives love, respect and hope.
+                    To build a compassionate home where people of all
+                    ages can live with dignity, feel supported
+                    and experience care, respect and belonging.
                 </h3>
 
             </div>
@@ -611,7 +602,7 @@ require 'includes/header.php';
         <div>
 
             <span class="eyebrow light">
-                BE A PART OF SOMEONE'S LIFE
+                CARE THAT REACHES EVERY GENERATION
             </span>
 
             <h2>
@@ -620,10 +611,9 @@ require 'includes/header.php';
             </h2>
 
             <p>
-                Your kindness, donations, time and
-                support can help bring shelter,
-                comfort and hope to individuals
-                and families facing difficult times.
+                Your kindness, donations, time and support can help
+                provide shelter, daily essentials, care and companionship
+                for children, adults and senior citizens who need it.
             </p>
 
         </div>
